@@ -34,4 +34,5 @@ Inference for the converted models were all unsuccessful.
 Multiple users were experiencing the same error.  
 (link: https://github.com/google-coral/pycoral/issues/1)  
 
-At the time, Coral dev board served demonstration purposes fairly well, but was not optimized to conduct quantization experiments. 
+### Conclusion
+At the time, Coral dev board served demonstration purposes fairly well, but was not optimized to conduct in-depth quantization experiments. 
